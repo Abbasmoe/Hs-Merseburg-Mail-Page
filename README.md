@@ -1,4 +1,4 @@
-# app2
+# Web-Mail
 
 ## Project setup
 ```
